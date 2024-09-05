@@ -11,7 +11,7 @@ import InstagramIcon from '../assets/instagram.svg'
 function Footer () {
     return (
         <footer>
-            <div className="container">
+            <div className="">
                 <div className="flex">
                     <div className="">
                         <img src={Logo} className="text-[25px] m-[25px] text-[#4D5053]"/>

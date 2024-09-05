@@ -10,7 +10,7 @@ function ProjectsList(props) {
                     It is a long established fact that a reader will be distracted by the of readable content of page  lookings at its layouts  points.
                 </p>
             </div>
-            <div className="grid grid-cols-4 gap-5  ml-[300px]">
+            <div className="grid grid-cols-4 gap-5">
                 <div className="flex justify-center items-center flex-col">
                     <div className="bg-center bg-cover rounded-[37px] h-[430px] w-[100%] bg-gray-200"></div>
                     <h3 className="mt-3">João Silva</h3>

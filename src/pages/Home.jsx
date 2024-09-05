@@ -8,11 +8,11 @@ function Home() {
         <>
             <Header />
 
-            <div className="container ">
-                <Hero />
-                <ProjectsList />
+            
+            <Hero />
+            <ProjectsList />
                 
-            </div>
+            
             <Footer />
         </>
     )

@@ -5,7 +5,7 @@ import Logo from '../assets/dnc-logo.svg'
 function Header () {
     return (
         <header>
-            <div className="container">
+            <div className="">
                 <div className="items-center flex justify-between p-5 ml-5">
                     <Link to="/"><img src={Logo}/></Link>
                     <nav>
